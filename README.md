@@ -15,7 +15,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://shanmukh-19.github.io/Social-link-profile/))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://shanmukh-19.github.io/Social-link-profile/)
 
 ### Built with
 
